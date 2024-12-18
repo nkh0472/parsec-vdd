@@ -1,17 +1,23 @@
-<br>
+<p align="center">
+  <a href="https://instantdb.com/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/74e7db71-6166-49ae-b6c5-7543b15c60eb">
+      <img alt="Parsec Virtual Display Driver" src="https://github.com/user-attachments/assets/57202381-021c-428a-ae38-0fc4b2e0ee0c">
+    </picture>
+  </a>
+</p>
 
 <p align="center">
-  <img src="https://i.imgur.com/dDUa6GH.png" width="64" height="64" />
-  <h1 align="center">parsec-vdd</h1>
-  <p align="center">
-    ✨ Standalone <strong>Parsec Virtual Display</strong>
-    <br />
-    Create virtual display up to <strong>4K@240Hz</strong>
-  </p>
-  <p align="center">
+  ✨ Perfect <strong>virtual display</strong> for game streaming
+</p>
+
+<p align="center">
+  <a href="#">
     <img src="https://img.shields.io/github/stars/nomi-san/parsec-vdd?style=for-the-badge&logo=github" />
-    <img src="https://img.shields.io/github/downloads/nomi-san/parsec-vdd/total?style=for-the-badge&label=Downloads" />
-  </p>
+  </a>
+  <a href="https://github.com/nomi-san/parsec-vdd/releases">
+    <img src="https://img.shields.io/github/downloads/nomi-san/parsec-vdd/total?style=for-the-badge" />
+  </a>
 </p>
 
 <br>
@@ -284,3 +290,6 @@ Visit http://www.edidreader.com/ to view it online or use an advanced tool
 
 - Thanks to Parsec for the driver
 - The app's background was from old parsecgaming.com
+
+<!-- tracking -->
+<img src="https://i.imgur.com/dDUa6GH.png" width="0" height="0" />
